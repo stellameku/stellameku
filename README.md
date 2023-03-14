@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stellameku
-- 👀 I’m interested in UX Design and Development 
-- 🌱 I’m currently learning UX Design and Development 
+- 👀 I’m interested in UI/UX Design and Development 
+- 🌱 I’m currently learning UI?UX Design and Development 
 
 
 <!---
